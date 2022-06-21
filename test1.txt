@@ -1,0 +1,4 @@
+Git init (creates a hidden file)
+Git status (shows if a file is good)
+Git add (allows you to add the file)
+Git commit -m "..." (Allows you to save)
